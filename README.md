@@ -1,4 +1,5 @@
 ### Hi there 👋
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi
 )](https://github.com/anuraghazra/github-readme-stats)
 
@@ -7,6 +8,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tawichi
 )](https://git.io/streak-stats)
+
+-->
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi&layout=compact&show_icons=true&theme=onedark" />
