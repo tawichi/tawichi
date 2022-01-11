@@ -1,12 +1,12 @@
 ### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi
-)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center"> 
+  <img alt="github toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi" />
+  
+</p>
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tawichi" />
-  <img alt="github stats" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tawichi" />
+  <img alt="github streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tawichi" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tawichi" />
 </p>
 
 <!--
