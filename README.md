@@ -13,7 +13,7 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="180px" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi" />
-  <img alt="github stats" height="180px" width="200px" "src="https://github-readme-streak-stats.herokuapp.com/?user=tawichi" />
+  <img alt="github stats" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=tawichi" />
 </p>
 
 <!--
