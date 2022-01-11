@@ -11,7 +11,7 @@
 
 -->
 
-<p align="center"> 
+<p align="left"> 
   <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi" />
   <img alt="github stats" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=tawichi" />
 </p>
