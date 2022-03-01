@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="./cv_TaichiOkunishi">Here is my CV.</a>
+<a href="https://github.com/tawichi/tawichi/blob/main/cv_TaichiOkunishi.pdf">Here is my CV.</a>
 <p align="center"> 
   <img alt="github toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi" />
   
