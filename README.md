@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+<a href="./cv_TaichiOkunishi">Here is my CV.</a>
 <p align="center"> 
   <img alt="github toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi" />
   
@@ -8,6 +10,8 @@
   <img alt="github streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tawichi" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tawichi" />
 </p>
+
+<p
 
 <!--
 **tawichi/tawichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
