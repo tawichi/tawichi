@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-<a href="https://github.com/tawichi/tawichi/blob/main/cv_TaichiOkunishi.pdf">Here is my CV.</a>
+<!-- <a href="https://github.com/tawichi/tawichi/blob/main/cv_TaichiOkunishi.pdf">Here is my CV.</a>
 <p align="center"> 
   <img alt="github toplang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawichi" />
   
 </p>
+
 
 <p align="left"> 
   <img alt="github streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=tawichi" />
